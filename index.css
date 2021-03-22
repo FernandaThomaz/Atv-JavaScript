@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    height: 100%;
+    background-color: rgb(47, 93, 107);
+}
+#header-center{
+    margin: center;
+    text-align: center;
+    background-color:rgb(42, 165, 48);
+    min-height: 100px;
+}
+.container {
+    background-color: aqua;
+    height: 80%;
+}
+main{
+    margin-top: %;
+    min-height: 310px;
+    display: center;
+    background-color:rgb(130, 234, 238);
+    text-align: center;
+    margin: center;
+}
+footer{
+    background-color:rgb(4, 190, 223);
+    height: 20%;
+    min-height: 120px;
+}
